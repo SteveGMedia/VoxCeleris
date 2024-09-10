@@ -1,0 +1,14 @@
+/*
+    style.css
+    ---------
+
+    I honestly forgot this file existed. Tailwind is awesome!
+    I should probably have did my own Tailwind build though.
+    
+
+    Author: SteveGMedia
+*/
+
+html, body {
+    font-family: 'Quicksand', sans-serif;
+}
